@@ -1,0 +1,97 @@
+ROM = {
+	small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				ROM_fighter_equipment_0_entity
+				ROM_fighter_equipment_1_entity
+				ROM_fighter_equipment_3_entity
+				ROM_fighter_equipment_4_entity
+				ROM_CAS_equipment_1_entity
+			}
+		}
+	}
+	cv_small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				ROM_fighter_equipment_0_entity
+				ROM_fighter_equipment_1_entity
+				ROM_fighter_equipment_3_entity
+				ROM_fighter_equipment_4_entity
+				ROM_CAS_equipment_1_entity
+			}
+		}
+	}
+	medium_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				ROM_medium_plane_entity
+			}
+		}
+	}
+}
+
+YUG = {
+	small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				YUG_light_plane_entity
+			 	YUG_fighter_equipment_0_entity
+			 	YUG_fighter_equipment_1_entity
+			 	YUG_fighter_equipment_3_entity
+			}
+		}
+	}
+	cv_small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				YUG_light_plane_entity
+			 	YUG_fighter_equipment_0_entity
+			 	YUG_fighter_equipment_1_entity
+			 	YUG_fighter_equipment_3_entity
+			}
+		}
+	}
+	medium_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				YUG_medium_plane_entity
+				YUG_heavy_fighter_equipment_2_entity
+			}
+		}
+	}
+	large_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				#YUG_heavy_plane_entity
+			}
+		}
+	}
+}

@@ -1,0 +1,116 @@
+
+
+POL = {
+	light_tank_chassis = {
+		pool = {
+			limit = {
+				has_dlc = "Poland: United and Ready"
+			}
+			icons = { 
+				GFX_POL_basic_light_tank_medium
+ 				GFX_POL_improved_light_tank_medium
+ 				GFX_POL_advanced_light_tank_medium
+			 }
+			models = {
+				POL_light_armor_0_entity
+				POL_light_armor_entity
+				POL_light_armor_1_entity
+			}
+		}
+	}
+
+	medium_tank_chassis = {
+		pool = {
+			limit = {
+				has_dlc = "Poland: United and Ready"
+			}
+			icons = { 
+				GFX_POL_basic_medium_tank_medium
+				GFX_POL_improved_medium_tank_medium
+				GFX_POL_advanced_medium_tank_medium
+			 }
+			models = {
+				POL_medium_armor_entity
+			}
+		}
+	}
+	heavy_tank_chassis = {
+		pool = {
+			limit = {
+				has_dlc = "Poland: United and Ready"
+			}
+			icons = { 
+				GFX_POL_basic_heavy_tank_medium
+				GFX_POL_improved_heavy_tank_medium
+				GFX_POL_advanced_heavy_tank_medium
+			 }
+		}
+	}
+}
+
+ROM = {
+	light_tank_chassis = {
+		pool = {
+			limit = {
+				has_dlc = "Death or Dishonor"
+			}
+			icons = { 
+				GFX_ROM_gwtank_medium
+ 				GFX_ROM_basic_light_tank_medium
+ 				GFX_ROM_improved_light_tank_medium
+ 				GFX_ROM_advanced_light_tank_medium
+			}
+			models = {
+				"ROM_light_armor_entity"
+				"ROM_light_armor_0_entity"
+				"ROM_light_armor_1_entity"
+				"ROM_light_armor_2_entity"
+				"ROM_medium_armor_entity"
+			}
+		}
+	}
+
+	medium_tank_chassis = {
+		pool = {
+			limit = {
+				has_dlc = "Death or Dishonor"
+			}
+			icons = { 
+				GFX_ROM_basic_medium_tank_medium
+ 				GFX_ROM_improved_medium_tank_medium
+ 				GFX_ROM_advanced_medium_tank_medium
+			}
+			models = {
+				"ROM_medium_armor_entity"
+				"ROM_medium_armor_1_entity"
+				"ROM_medium_armor_2_entity"				
+			}
+		}
+	}
+	heavy_tank_chassis = {
+		pool = {
+			limit = {
+				has_dlc = "Death or Dishonor"
+			}
+			icons = { 
+				GFX_ROM_basic_heavy_tank_medium
+ 				GFX_ROM_improved_heavy_tank_medium
+ 				GFX_ROM_advanced_heavy_tank_medium
+			 }
+		}
+	}
+}
+
+YUG = {
+	light_tank_chassis = {
+		pool = {
+			limit = {
+				has_dlc = "Death or Dishonor"
+			}
+			models = {
+				"geo_r35_entity"
+			}
+		}
+	}
+}
+

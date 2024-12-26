@@ -1,0 +1,47 @@
+USA = {
+
+	light_tank_chassis = {
+		pool = {
+			models = {
+				USA_light_armor_entity
+				USA_light_armor_1_entity
+			}
+		}
+	}
+	medium_tank_chassis = {
+		pool = {
+			models = {
+				USA_medium_armor_entity
+				USA_medium_armor_1_entity
+				USA_medium_armor_1_alt_0_entity
+				USA_medium_armor_1_alt_1_entity
+				USA_medium_armor_1_alt_2_entity
+				USA_medium_armor_1_alt_3_entity
+				USA_medium_armor_1_alt_4_entity
+				USA_medium_armor_1_alt_5_entity
+				USA_medium_armor_1_alt_6_entity
+				USA_medium_armor_1_alt_7_entity
+				USA_medium_armor_1_alt_8_entity
+				USA_medium_armor_2_entity
+				USA_medium_armor_2_alt_0_entity
+				USA_heavy_armor_1_entity
+			}
+		}
+	}
+	heavy_tank_chassis = {
+		pool = {
+			models = {
+				USA_heavy_armor_entity
+				USA_heavy_armor_1_entity
+			}
+		}
+	}
+	modern_tank_chassis = {
+		pool = {
+			models = {
+				USA_modern_armor_entity
+				USA_modern_armor_1_entity
+			}
+		}
+	}
+}
