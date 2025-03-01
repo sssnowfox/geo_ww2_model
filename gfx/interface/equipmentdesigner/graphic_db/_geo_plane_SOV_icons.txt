@@ -1,0 +1,28 @@
+SOV = {
+	small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+			 	SOV_hurricane_SOV_entity
+			 	SOV_hurricane_SOV_mk2b_entity
+			 	geo_mig17_entity
+			}
+		}
+	}
+	cv_small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+			 	SOV_hurricane_SOV_entity
+			 	SOV_hurricane_SOV_mk2b_entity
+			 	geo_mig17_entity
+			}
+		}
+	}
+}

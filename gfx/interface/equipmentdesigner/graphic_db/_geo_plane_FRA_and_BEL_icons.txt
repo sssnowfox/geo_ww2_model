@@ -1,0 +1,53 @@
+FRA = {
+	small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+			 	geo_ms406_entity
+			 	geo_d520_entity
+			 	geo_mb157_entity
+			 	geo_ln40_entity
+			}
+		}
+	}
+	cv_small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+			 	geo_ms406_navy_entity
+			 	geo_d520_entity
+			 	geo_mb157_entity
+			 	geo_ln40_entity
+			}
+		}
+	}
+	medium_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+				geo_br693_entity
+			}
+		}
+	}
+}
+
+BEL = {
+	
+	small_plane_airframe = {
+		pool = {
+			models = {
+				BEL_harricane_BEL_entity
+				BEL_harricane_mk2b_BEL_entity
+			}
+		}
+	}
+}

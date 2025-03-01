@@ -1,0 +1,24 @@
+USA = {
+	small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+			 	geo_a1_USA_entity
+			}
+		}
+	}
+	cv_small_plane_airframe = {
+		pool = {
+			weight = 0.9
+			icons = {
+				
+			}
+			models= {
+			 	geo_a1_USA_entity
+			}
+		}
+	}
+}

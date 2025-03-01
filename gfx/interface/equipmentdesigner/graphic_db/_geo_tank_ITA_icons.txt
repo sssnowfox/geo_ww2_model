@@ -1,0 +1,472 @@
+
+ITA = {
+	light_tank_chassis_1 = {
+		pool = {
+			icons = { 
+				GFX_ITA_basic_light_tank_medium
+ 				GFX_ITA_light_AAB
+ 				GFX_ITA_light_AAB_camo
+ 				GFX_ITA_light_AAC
+ 				GFX_ITA_light_AAC_camo
+ 				GFX_ITA_light_ABA
+ 				GFX_ITA_light_ABA_camo
+ 				GFX_ITA_light_ABB
+ 				GFX_ITA_light_ABB_camo
+ 				GFX_ITA_light_ABC
+ 				GFX_ITA_light_ABC_camo
+ 				GFX_ITA_light_ACA
+ 				GFX_ITA_light_ACA_camo
+ 				GFX_ITA_light_ACB
+ 				GFX_ITA_light_ACB_camo
+ 				GFX_ITA_light_ACC
+ 				GFX_ITA_light_ACC_camo
+			 }
+			models = {
+				ITA_light_armor_entity
+				ITA_light_armor_0_alt_1_entity
+				ITA_light_armor_0_alt_0_entity
+				ITA_light_armor_1_alt_0_entity
+				ITA_light_tank_destroyer_brigade_0_entity
+				ITA_light_tank_destroyer_brigade_0_alt_0_entity
+				ITA_armored_car_0_entity
+				ITA_armored_car_1_entity
+			}
+		}
+	}
+
+	light_tank_chassis_2 = {
+		pool = {
+			icons = { 
+				GFX_ITA_improved_light_tank_medium
+ 				GFX_ITA_light_BAB
+ 				GFX_ITA_light_BAB_camo
+ 				GFX_ITA_light_BAC
+ 				GFX_ITA_light_BAC_camo
+ 				GFX_ITA_light_BBA
+ 				GFX_ITA_light_BBA_camo
+ 				GFX_ITA_light_BAA
+ 				GFX_ITA_light_BAA_camo
+ 				GFX_ITA_light_BBC
+ 				GFX_ITA_light_BBC_camo
+ 				GFX_ITA_light_BCA
+ 				GFX_ITA_light_BCA_camo
+ 				GFX_ITA_light_BCB
+ 				GFX_ITA_light_BCB_camo
+ 				GFX_ITA_light_BCC
+ 				GFX_ITA_light_BCC_camo
+			 }
+			models = {
+				ITA_light_armor_entity
+				ITA_light_armor_0_alt_1_entity
+				ITA_light_armor_0_alt_0_entity
+				ITA_light_armor_1_alt_0_entity
+				ITA_light_tank_destroyer_brigade_0_entity
+				ITA_light_tank_destroyer_brigade_0_alt_0_entity
+				ITA_armored_car_0_entity
+				ITA_armored_car_1_entity
+			}
+		}
+	}
+
+	light_tank_chassis_3 = {
+		pool = {
+			icons = { 
+				GFX_ITA_advanced_light_tank_medium
+ 				GFX_ITA_light_CAB
+ 				GFX_ITA_light_CAB_camo
+ 				GFX_ITA_light_CAC
+ 				GFX_ITA_light_CAC_camo
+ 				GFX_ITA_light_CBA
+ 				GFX_ITA_light_CBA_camo
+ 				GFX_ITA_light_CBB
+ 				GFX_ITA_light_CBB_camo
+ 				GFX_ITA_light_CBC
+ 				GFX_ITA_light_CBC_camo
+ 				GFX_ITA_light_CCA
+ 				GFX_ITA_light_CCA_camo
+ 				GFX_ITA_light_CCB
+ 				GFX_ITA_light_CCB_camo
+ 				GFX_ITA_light_CAA
+ 				GFX_ITA_light_CAA_camo
+			 }
+			models = {
+				ITA_light_armor_entity
+				ITA_light_armor_0_alt_1_entity
+				ITA_light_armor_0_alt_0_entity
+				ITA_light_armor_1_alt_0_entity
+				ITA_light_tank_destroyer_brigade_0_entity
+				ITA_light_tank_destroyer_brigade_0_alt_0_entity
+				ITA_armored_car_0_entity
+				ITA_armored_car_1_entity
+			}
+		}
+	}
+
+
+	medium_tank_chassis_0 = {
+		pool = {
+			icons = { 
+				GFX_ITA_basic_medium_tank_medium
+			}
+		}
+		pool = {
+			weight = 0.5
+			icons = { 
+ 				GFX_ITA_medium_ACC_camo
+ 				GFX_ITA_medium_ACC
+ 				GFX_ITA_medium_ACB_camo
+ 				GFX_ITA_medium_ACB
+ 				GFX_ITA_medium_ACA_camo
+ 				GFX_ITA_medium_ACA
+ 				GFX_ITA_medium_ABC_camo
+ 				GFX_ITA_medium_ABC
+ 				GFX_ITA_medium_ABB_camo
+ 				GFX_ITA_medium_ABB
+ 				GFX_ITA_medium_ABA_camo
+ 				GFX_ITA_medium_ABA
+ 				GFX_ITA_medium_AAC_camo
+ 				GFX_ITA_medium_AAC
+ 				GFX_ITA_medium_AAB_camo
+ 				GFX_ITA_medium_AAB
+			}
+			models = {
+				ITA_medium_armor_entity
+				ITA_medium_armor_0_entity
+				ITA_medium_armor_0_alt_0_entity
+				ITA_medium_armor_1_entity
+				ITA_medium_armor_1_alt_0_entity
+				ITA_medium_armor_1_alt_1_entity
+				ITA_medium_armor_1_alt_2_entity
+				ITA_medium_armor_1_alt_3_entity
+				ITA_medium_tank_destroyer_brigade_0_entity
+				ITA_medium_tank_destroyer_brigade_0_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_1_entity
+				ITA_medium_tank_destroyer_brigade_1_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_1_entity
+				ITA_medium_armor_2_entity
+				ITA_medium_armor_2_alt_0_entity
+				ITA_medium_armor_2_alt_1_entity
+				ITA_medium_armor_2_alt_2_entity
+				ITA_medium_armor_2_alt_3_entity
+				ITA_medium_armor_2_alt_4_entity
+				ITA_medium_armor_2_alt_5_entity
+				ITA_medium_armor_2_alt_6_entity
+				ITA_medium_armor_2_alt_7_entity
+				ITA_medium_armor_3_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+
+	medium_tank_chassis_1 = {
+		pool = {
+			icons = { 
+				GFX_ITA_basic_medium_tank_medium
+			}
+		}
+		pool = {
+			weight = 0.5
+			icons = { 
+ 				GFX_ITA_medium_ACC_camo
+ 				GFX_ITA_medium_ACC
+ 				GFX_ITA_medium_ACB_camo
+ 				GFX_ITA_medium_ACB
+ 				GFX_ITA_medium_ACA_camo
+ 				GFX_ITA_medium_ACA
+ 				GFX_ITA_medium_ABC_camo
+ 				GFX_ITA_medium_ABC
+ 				GFX_ITA_medium_ABB_camo
+ 				GFX_ITA_medium_ABB
+ 				GFX_ITA_medium_ABA_camo
+ 				GFX_ITA_medium_ABA
+ 				GFX_ITA_medium_AAC_camo
+ 				GFX_ITA_medium_AAC
+ 				GFX_ITA_medium_AAB_camo
+ 				GFX_ITA_medium_AAB
+			}
+			models = {
+				ITA_medium_armor_entity
+				ITA_medium_armor_0_entity
+				ITA_medium_armor_0_alt_0_entity
+				ITA_medium_armor_1_entity
+				ITA_medium_armor_1_alt_0_entity
+				ITA_medium_armor_1_alt_1_entity
+				ITA_medium_armor_1_alt_2_entity
+				ITA_medium_armor_1_alt_3_entity
+				ITA_medium_tank_destroyer_brigade_0_entity
+				ITA_medium_tank_destroyer_brigade_0_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_1_entity
+				ITA_medium_tank_destroyer_brigade_1_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_1_entity
+				ITA_medium_armor_2_entity
+				ITA_medium_armor_2_alt_0_entity
+				ITA_medium_armor_2_alt_1_entity
+				ITA_medium_armor_2_alt_2_entity
+				ITA_medium_armor_2_alt_3_entity
+				ITA_medium_armor_2_alt_4_entity
+				ITA_medium_armor_2_alt_5_entity
+				ITA_medium_armor_2_alt_6_entity
+				ITA_medium_armor_2_alt_7_entity
+				ITA_medium_armor_3_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+
+	medium_tank_chassis_2 = {
+		pool = {
+			icons = { 
+				GFX_ITA_improved_medium_tank_medium
+			}
+		}
+		pool = {
+			weight = 0.5
+			icons = { 
+ 				GFX_ITA_medium_BCC_camo
+ 				GFX_ITA_medium_BCC
+ 				GFX_ITA_medium_BCB_camo
+ 				GFX_ITA_medium_BCB
+ 				GFX_ITA_medium_BCA_camo
+ 				GFX_ITA_medium_BCA
+ 				GFX_ITA_medium_BBC_camo
+ 				GFX_ITA_medium_BBC
+ 				GFX_ITA_medium_BBA_camo
+ 				GFX_ITA_medium_BBA
+ 				GFX_ITA_medium_BAC_camo
+ 				GFX_ITA_medium_BAC
+ 				GFX_ITA_medium_BAB_camo
+ 				GFX_ITA_medium_BAB
+ 				GFX_ITA_medium_BAA_camo
+ 				GFX_ITA_medium_BAA
+			}
+			models = {
+				ITA_medium_armor_entity
+				ITA_medium_armor_0_entity
+				ITA_medium_armor_0_alt_0_entity
+				ITA_medium_armor_1_entity
+				ITA_medium_armor_1_alt_0_entity
+				ITA_medium_armor_1_alt_1_entity
+				ITA_medium_armor_1_alt_2_entity
+				ITA_medium_armor_1_alt_3_entity
+				ITA_medium_tank_destroyer_brigade_0_entity
+				ITA_medium_tank_destroyer_brigade_0_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_1_entity
+				ITA_medium_tank_destroyer_brigade_1_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_1_entity
+				ITA_medium_armor_2_entity
+				ITA_medium_armor_2_alt_0_entity
+				ITA_medium_armor_2_alt_1_entity
+				ITA_medium_armor_2_alt_2_entity
+				ITA_medium_armor_2_alt_3_entity
+				ITA_medium_armor_2_alt_4_entity
+				ITA_medium_armor_2_alt_5_entity
+				ITA_medium_armor_2_alt_6_entity
+				ITA_medium_armor_2_alt_7_entity
+				ITA_medium_armor_3_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+
+	medium_tank_chassis_3 = {
+		pool = {
+			icons = { 
+				GFX_ITA_advanced_medium_tank_medium
+			}
+		}
+		pool = {
+			weight = 0.5
+			icons = { 
+ 				GFX_ITA_medium_CCB_camo
+ 				GFX_ITA_medium_CCB
+ 				GFX_ITA_medium_CCA_camo
+ 				GFX_ITA_medium_CCA
+ 				GFX_ITA_medium_CBC_camo
+ 				GFX_ITA_medium_CBC
+ 				GFX_ITA_medium_CBB_camo
+ 				GFX_ITA_medium_CBB
+ 				GFX_ITA_medium_CBA_camo
+ 				GFX_ITA_medium_CBA
+ 				GFX_ITA_medium_CAC_camo
+ 				GFX_ITA_medium_CAC
+ 				GFX_ITA_medium_CAB_camo
+ 				GFX_ITA_medium_CAB
+ 				GFX_ITA_medium_CAA_camo
+ 				GFX_ITA_medium_CAA
+			}
+			models = {
+				ITA_medium_armor_entity
+				ITA_medium_armor_0_entity
+				ITA_medium_armor_0_alt_0_entity
+				ITA_medium_armor_1_entity
+				ITA_medium_armor_1_alt_0_entity
+				ITA_medium_armor_1_alt_1_entity
+				ITA_medium_armor_1_alt_2_entity
+				ITA_medium_armor_1_alt_3_entity
+				ITA_medium_tank_destroyer_brigade_0_entity
+				ITA_medium_tank_destroyer_brigade_0_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_1_entity
+				ITA_medium_tank_destroyer_brigade_1_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_0_entity
+				ITA_medium_tank_destroyer_brigade_2_alt_1_entity
+				ITA_medium_armor_2_entity
+				ITA_medium_armor_2_alt_0_entity
+				ITA_medium_armor_2_alt_1_entity
+				ITA_medium_armor_2_alt_2_entity
+				ITA_medium_armor_2_alt_3_entity
+				ITA_medium_armor_2_alt_4_entity
+				ITA_medium_armor_2_alt_5_entity
+				ITA_medium_armor_2_alt_6_entity
+				ITA_medium_armor_2_alt_7_entity
+				ITA_medium_armor_3_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+
+	heavy_tank_chassis_0 = {
+		pool = {
+			icons = { 
+				GFX_ITA_basic_heavy_tank_medium
+ 				GFX_ITA_heavy_AAB
+ 				GFX_ITA_heavy_AAB_camo
+ 				GFX_ITA_heavy_AAC
+ 				GFX_ITA_heavy_AAC_camo
+ 				GFX_ITA_heavy_ABA
+ 				GFX_ITA_heavy_ABA_camo
+ 				GFX_ITA_heavy_ABB
+ 				GFX_ITA_heavy_ABB_camo
+ 				GFX_ITA_heavy_ABC
+ 				GFX_ITA_heavy_ABC_camo
+ 				GFX_ITA_heavy_ACA
+ 				GFX_ITA_heavy_ACA_camo
+ 				GFX_ITA_heavy_ACB
+ 				GFX_ITA_heavy_ACB_camo
+ 				GFX_ITA_heavy_ACC
+ 				GFX_ITA_heavy_ACC_camo
+			 }
+			models = {
+				ITA_heavy_armor_entity
+				ITA_heavy_armor_0_entity
+				ITA_heavy_armor_0_alt_0_entity
+				ITA_heavy_armor_0_alt_1_entity
+				ITA_heavy_armor_1_entity
+				ITA_heavy_armor_2_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+	heavy_tank_chassis_1 = {
+		pool = {
+			icons = { 
+				GFX_ITA_basic_heavy_tank_medium
+ 				GFX_ITA_heavy_AAB
+ 				GFX_ITA_heavy_AAB_camo
+ 				GFX_ITA_heavy_AAC
+ 				GFX_ITA_heavy_AAC_camo
+ 				GFX_ITA_heavy_ABA
+ 				GFX_ITA_heavy_ABA_camo
+ 				GFX_ITA_heavy_ABB
+ 				GFX_ITA_heavy_ABB_camo
+ 				GFX_ITA_heavy_ABC
+ 				GFX_ITA_heavy_ABC_camo
+ 				GFX_ITA_heavy_ACA
+ 				GFX_ITA_heavy_ACA_camo
+ 				GFX_ITA_heavy_ACB
+ 				GFX_ITA_heavy_ACB_camo
+ 				GFX_ITA_heavy_ACC
+ 				GFX_ITA_heavy_ACC_camo
+			 }
+			models = {
+				ITA_heavy_armor_entity
+				ITA_heavy_armor_0_entity
+				ITA_heavy_armor_0_alt_0_entity
+				ITA_heavy_armor_0_alt_1_entity
+				ITA_heavy_armor_1_entity
+				ITA_heavy_armor_2_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+
+	heavy_tank_chassis_2 = {
+		pool = {
+			icons = { 
+				GFX_ITA_improved_heavy_tank_medium
+ 				GFX_ITA_heavy_BAB
+ 				GFX_ITA_heavy_BAB_camo
+ 				GFX_ITA_heavy_BAC
+ 				GFX_ITA_heavy_BAC_camo
+ 				GFX_ITA_heavy_BBA
+ 				GFX_ITA_heavy_BBA_camo
+ 				GFX_ITA_heavy_BAA
+ 				GFX_ITA_heavy_BAA_camo
+ 				GFX_ITA_heavy_BBC
+ 				GFX_ITA_heavy_BBC_camo
+ 				GFX_ITA_heavy_BCA
+ 				GFX_ITA_heavy_BCA_camo
+ 				GFX_ITA_heavy_BCB
+ 				GFX_ITA_heavy_BCB_camo
+ 				GFX_ITA_heavy_BCC
+ 				GFX_ITA_heavy_BCC_camo
+			 }
+			models = {
+				ITA_heavy_armor_entity
+				ITA_heavy_armor_0_entity
+				ITA_heavy_armor_0_alt_0_entity
+				ITA_heavy_armor_0_alt_1_entity
+				ITA_heavy_armor_1_entity
+				ITA_heavy_armor_2_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+
+	heavy_tank_chassis_3 = {
+		pool = {
+			icons = { 
+				GFX_ITA_advanced_heavy_tank_medium
+ 				GFX_ITA_heavy_CAB
+ 				GFX_ITA_heavy_CAB_camo
+ 				GFX_ITA_heavy_CAC
+ 				GFX_ITA_heavy_CAC_camo
+ 				GFX_ITA_heavy_CBA
+ 				GFX_ITA_heavy_CBA_camo
+ 				GFX_ITA_heavy_CBB
+ 				GFX_ITA_heavy_CBB_camo
+ 				GFX_ITA_heavy_CBC
+ 				GFX_ITA_heavy_CBC_camo
+ 				GFX_ITA_heavy_CCA
+ 				GFX_ITA_heavy_CCA_camo
+ 				GFX_ITA_heavy_CCB
+ 				GFX_ITA_heavy_CCB_camo
+ 				GFX_ITA_heavy_CAA
+ 				GFX_ITA_heavy_CAA_camo
+			 }
+			models = {
+				ITA_heavy_armor_entity
+				ITA_heavy_armor_0_entity
+				ITA_heavy_armor_0_alt_0_entity
+				ITA_heavy_armor_0_alt_1_entity
+				ITA_heavy_armor_1_entity
+				ITA_heavy_armor_2_entity
+				ITA_medium_armor_3_alt_0_entity
+				ITA_medium_armor_3_alt_1_entity
+			}
+		}
+	}
+}
