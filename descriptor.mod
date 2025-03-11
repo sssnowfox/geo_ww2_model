@@ -1,7 +1,5 @@
 version="0.1"
-dependencies={
-	"Lamp's Eqpt Icons"
-}
+
 tags={
 	"Graphics"
 	"Military"
